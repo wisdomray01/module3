@@ -42,3 +42,10 @@ body {
     text-align: center;
 }
 
+#mobile {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
